@@ -1,0 +1,2 @@
+include ':app', ':wave'
+rootProject.name='WaveView'
