@@ -1,4 +1,10 @@
 # 使用
+## 依赖
+```
+dependencies {
+    implementation 'com.github.Larissa-x:WaveView:1.0.0'
+}
+```
 ## xml文件
 ```
  <com.example.waveview.WaveView
