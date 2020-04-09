@@ -1,14 +1,13 @@
 # 使用效果
 ![image](https://github.com/Larissa-x/WaveView/blob/master/app/src/main/res/drawable/wave_test.gif)
 
-## 依赖
+#### 依赖    添加支持jitpack库
 ```
-### 添加支持jitpack库
 allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
+    repositories {
+        ...
+        maven { url 'https://jitpack.io' }
+    }
 }
 
 dependencies {
