@@ -3,8 +3,16 @@
 
 ## 依赖
 ```
+### 添加支持jitpack库
+allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+}
+
 dependencies {
-    implementation 'com.github.Larissa-x:WaveView:1.0.0'
+    implementation 'com.github.Larissa-x:WaveView:1.0.1'
 }
 ```
 ## xml文件

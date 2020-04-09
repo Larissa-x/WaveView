@@ -1,4 +1,4 @@
-package com.example.waveview;
+package com.larissa.waveview;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.example.waveview.test", appContext.getPackageName());
+        assertEquals("com.example.waveview", appContext.getPackageName());
     }
 }

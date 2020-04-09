@@ -1,4 +1,4 @@
-package com.example.waveview;
+package com.larissa.waveview;
 
 import android.content.Context;
 import android.graphics.Canvas;
