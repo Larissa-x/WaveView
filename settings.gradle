@@ -1,2 +1,3 @@
-include ':app', ':wave'
+//include ':app', ':wave'
+include ':wave'
 rootProject.name='WaveView'
