@@ -16,7 +16,7 @@ dependencies {
 ```
 ## xml文件
 ```
- <com.example.waveview.WaveView
+ <com.larissa.waveview.WaveView
         android:id="@+id/wv"
         android:layout_centerInParent="true"
         android:layout_width="360dp"
