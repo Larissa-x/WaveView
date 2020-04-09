@@ -1,4 +1,6 @@
-# 使用
+# 使用效果
+![image](https://github.com/Larissa-x/WaveView/blob/master/app/src/main/res/drawable/wave_test.gif)
+
 ## 依赖
 ```
 dependencies {
